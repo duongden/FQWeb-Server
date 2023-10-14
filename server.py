@@ -697,7 +697,7 @@ def get_block_domains():
 
 @app.route('/', methods=['GET'])
 def main_page():
-    return redirect('https://github.com/fengyuecanzhu/FQWeb', 302)
+    return redirect('https://github.com/yanygm/FQWeb-Server', 302)
 
 
 def get_all_loads():
