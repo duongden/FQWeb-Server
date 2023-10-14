@@ -36,8 +36,7 @@ services:
       - /data:/app/data  # 映射本地的/data目录到容器内的/app/data目录
 ```
 
-### 节点池json
+### 书源订阅节点
 ```
-添加维护地址：https://jsonblob.com/1162727574463176704
-节点池json地址：https://jsonblob.com/api/jsonBlob/1162727574463176704
+https://jsonblob.com/api/jsonBlob/1162758983684841472
 ```
