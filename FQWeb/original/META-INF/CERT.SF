@@ -1,0 +1,52 @@
+Signature-Version: 1.0
+Created-By: NP
+SHA1-Digest-Manifest: srCeekKnmvbLTb7hWhCbINmZaUw=
+
+Name: AndroidManifest.xml
+SHA1-Digest: s8h81C4Z1QxOoTZA1zQZ73hNiNs=
+
+Name: META-INF/com/android/build/gradle/app-metadata.properties
+SHA1-Digest: hRAaRDjMYr+LfOKlV1OHML9MOBs=
+
+Name: META-INF/nanohttpd/default-mimetypes.properties
+SHA1-Digest: qUTkfqGXO2RAPENoMMVkStCujqw=
+
+Name: META-INF/nanohttpd/mimetypes.properties
+SHA1-Digest: lW3Ak0ULBoc4ZKAhwO+3c7oA9zs=
+
+Name: assets/xposed_init
+SHA1-Digest: a3vDBHaAL9efoEMHsPU60SwidAo=
+
+Name: classes.dex
+SHA1-Digest: 2vvsECMHIfyaCQG0vpchESB7mjs=
+
+Name: kotlin-tooling-metadata.json
+SHA1-Digest: CUxUF9rr0h0gPyytwh5XLOM1nKc=
+
+Name: kotlin/annotation/annotation.kotlin_builtins
+SHA1-Digest: u2/Z7uzWXgLQ8saGO/SXitO0nP8=
+
+Name: kotlin/collections/collections.kotlin_builtins
+SHA1-Digest: hGzyGYoe+Vc1UOnD9Mg4kY4ZXxY=
+
+Name: kotlin/coroutines/coroutines.kotlin_builtins
+SHA1-Digest: cmy3peJy1Zdf5inD2qNB1hpYdmY=
+
+Name: kotlin/internal/internal.kotlin_builtins
+SHA1-Digest: Kn+9NTlrY5P+1sPoBxjbLvK4V+4=
+
+Name: kotlin/kotlin.kotlin_builtins
+SHA1-Digest: vzIcDX/XBEOHAjq8LC95RH0e/yQ=
+
+Name: kotlin/ranges/ranges.kotlin_builtins
+SHA1-Digest: ywAMVkEx9TQsULkKeloJzkGxQRc=
+
+Name: kotlin/reflect/reflect.kotlin_builtins
+SHA1-Digest: jNalo2j0uwpF4h0aARwPCwiFdpc=
+
+Name: lib/arm64-v8a/libgojni.so
+SHA1-Digest: 1F0+hjHr4Vrn9/PmZgc872J3N4A=
+
+Name: resources.arsc
+SHA1-Digest: uuiKLvlaZB09AQRfMEiMUw7tgPI=
+
